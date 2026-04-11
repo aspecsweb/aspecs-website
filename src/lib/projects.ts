@@ -21,23 +21,18 @@ export const projects = [
     },
   },
   {
-    key: "letteer",
-    name: "Letteer.me",
-    image: "/images/projects/letteer.png",
-    description:
-      "Letteer.me lets you create beautifully designed, professionally formatted letters and CVs in minutes. Pick a template, customize your info, and download your document instantly.",
-    website: "https://www.letteer.me",
-    startDate: "2025-03-23",
+    key: "logier",
+    name: "Logier",
+    image: "/images/projects/logier.png",
+    description: "",
+    website: "https://www.logier.dev",
+    startDate: "2026-02-22",
     metadata: {
       location: "Switzerland",
       features: [
-        "Professional letter and CV builder",
-        "Template-based design",
-        "Export as PDF or share via link",
-        "Job field optimization",
-        "Dark/light mode support",
+        "Logviewer"
       ],
-      technologies: ["React", "TailwindCSS", "PDF export", "CV generation"],
+      technologies: ["Electron", "React", "TailwindCSS"],
     },
   },
   {
