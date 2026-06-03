@@ -11,7 +11,7 @@ export const socialLinks = [
   },
   {
     name: "YouTube",
-    href: "#",
+    href: "https://www.youtube.com/@aspecsweb",
     iconClass: "ri-youtube-fill",
   },
   {

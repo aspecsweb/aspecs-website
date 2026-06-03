@@ -1,26 +1,5 @@
 export const projects = [
   {
-    key: "nanosights",
-    name: "NanoSights",
-    image: "/images/projects/nanosights.png",
-    description:
-      "NanoSights is a developer-first analytics platform that helps you embed SEO, speed insights, revenue tracking and accessibility with just a few lines of code.",
-    website: "https://www.nanosights.dev",
-    startDate: "2025-01-06",
-    metadata: {
-      location: "Switzerland",
-      features: [
-        "Advanced analytics",
-        "SEO integration",
-        "Stripe revenue tracking",
-        "Lightning fast",
-        "Secure by design",
-        "Easy to embed",
-      ],
-      technologies: ["JavaScript", "Node.js", "Analytics", "SEO", "Stripe"],
-    },
-  },
-  {
     key: "logier",
     name: "Logier",
     image: "/images/projects/logier.png",
